@@ -14,6 +14,11 @@ Sumber data :
 - https://data.ntbprov.go.id/dataset/9e435c84-a69c-496d-a4d1-b47bd60c5d72/show
 - https://data.ntbprov.go.id/dataset/9cfd6ff2-5d7f-44f3-b71b-18850c7445f6/show
 
+Teknik Pengambilan : 
+- Data diambil menggunakan teknik web scraping karena situs tidak menyediakan akses API terbuka.
+- Library requests digunakan untuk mengambil halaman HTML, dan BeautifulSoup digunakan untuk mengekstrak tabel data.
+- Hasilnya disimpan sebagai CSV menggunakan pandas, dengan mekanisme retry dan logging untuk keandalan.
+
 ---
 
 ## 🤝 Contributors
