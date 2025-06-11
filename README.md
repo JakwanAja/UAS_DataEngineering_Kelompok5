@@ -2,6 +2,13 @@
 
 
 ## Documentation
+### Latar Belakang
+Pendidikan merupakan faktor kunci dalam pembangunan ekonomi dan sosial suatu daerah. Tingkat partisipasi pendidikan tidak hanya mencerminkan kualitas sumber daya manusia, tetapi juga berpengaruh signifikan terhadap kesejahteraan masyarakat.
+
+Di Provinsi Nusa Tenggara Barat (NTB), tantangan seperti tingkat kemiskinan yang masih tinggi, angka pengangguran, dan rendahnya upah tenaga kerja menjadi isu yang perlu dikaji secara mendalam.
+Analisis hubungan antara partisipasi pendidikan dengan indikator-indikator tersebut penting untuk memahami sejauh mana peningkatan akses dan kualitas pendidikan dapat menjadi solusi terhadap permasalahan sosial-ekonomi di NTB.
+
+###
 
 ---
 
